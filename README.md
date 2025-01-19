@@ -69,7 +69,6 @@
 - $voicepeak_path に <VOICEPEAKインストールディレクトリ>\voicepeak.exe を入れてください
   - おそらくデフォルトであろう `C:\Program Files\VOICEPEAK\voicepeak.exe` を入れています
 
-ps2exeでps1をexeにしたもをリリースしていますが、VOICEPEAKのインストールディレクトリが\
-`C:\Program Files\VOICEPEAK\voicepeak.exe` 以外だと動きません
+- ps2exeでps1をexeにしたもをリリースしていますが、VOICEPEAKのインストールディレクトリが `C:\Program Files\VOICEPEAK\voicepeak.exe` 以外だと動きません
 
 アイコンはBing Image Creatorさんに生成いただきました
