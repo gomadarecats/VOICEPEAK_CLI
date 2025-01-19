@@ -9,11 +9,7 @@
 
 説明
 
-    A.I.VOICE Editor API を利用してText, VoicePresetNames, CurrentVoicePresetName を取得・設定します。
-    Text: テキスト形式の入力テキストを取得または設定します。
-    VoicePresetNames: 登録されているボイスプリセット名を取得します。
-    CurrentVoicePresetName: 現在のボイスプリセット名を取得または設定します。
-    スクリプト内の$PathをAI.Talk.Editor.Api.dllの適切なパスに指定してください。
+    VOICEPEAKでテキストを読み上げます。
 
 
 パラメーター
