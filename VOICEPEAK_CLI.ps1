@@ -33,7 +33,9 @@ if ([string]::IsNullOrEmpty($text)) {
   $text = Read-Host "text"
 }
 
-$query = ' -s ' + $text
+$text = $text -replace "\s", "_"
+
+$query = ' -s ' + '"' + $text + '"'
 
 if ([string]::IsNullOrEmpty($narrator)) {
 } else {
